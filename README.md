@@ -22,6 +22,18 @@ areas — not a specific subfield yet, and deliberately so.
 - [**Dynamical-Systems-and-Control-of-a-DC-motor**](https://github.com/Alex-avellaneda/Dynamical-Systems-and-Control-of-a-DC-motor) —
   State-space modeling, observer-based feedback and LQR control, deployed to
   real hardware (STM32 Nucleo).
+- [**Chaos-Topological-Detection**](https://github.com/Alex-avellaneda/Chaos-Topological-Detection) —
+  Proving chaos via symbolic dynamics and the path-stretching method
+  (a generalized horseshoe), applied to a switched forced pendulum.
+- [**Fisher-KPP-Equation**](https://github.com/Alex-avellaneda/Fisher-KPP-Equation) —
+  Reaction-diffusion fronts: a provably convergent numerical scheme,
+  validated against the theoretical minimum propagation speed.
+- [**Stochastic-Simulation-Brownian-and-Gillespie**](https://github.com/Alex-avellaneda/Stochastic-Simulation-Brownian-and-Gillespie) —
+  Langevin dynamics, the Gillespie SSA, and the ratchet effect — two routes
+  to the same diffusion law, and directed transport from unbiased noise.
+- [**Geomagnetic-Field-Analysis-Iberia**](https://github.com/Alex-avellaneda/Geomagnetic-Field-Analysis-Iberia) —
+  Main vs. crustal geomagnetic field (CHAOS-8) and geomagnetic jerk
+  detection over the Iberian Peninsula.
 
 Each repo README has the full write-up, method, and results.
 
