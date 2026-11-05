@@ -4,7 +4,7 @@ MSc Applied Mathematics (Scientific Computing and Machine Learning), Imperial
 College London — in progress, 2026-2027. Physics/Mathematics double degree, Universidad
 Complutense de Madrid.
 
-**Interests**: mathematical modelling of geophysical fluid dynamics and the climate system; dynamical systems; numerical PDEs and scientific computing; with data assimilation and machine learning as tools applied to these problems
+**Interests**: mathematical modelling of geophysical fluid dynamics and the climate system; dynamical systems; numerical PDEs and scientific computing; with data assimilation and machine learning as tools applied to these problems.
 
 #### Selected projects
 
